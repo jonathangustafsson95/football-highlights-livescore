@@ -1,0 +1,7 @@
+.box{
+    float:left;
+    margin-right:60px;
+}
+.clear{
+    clear:both;
+}

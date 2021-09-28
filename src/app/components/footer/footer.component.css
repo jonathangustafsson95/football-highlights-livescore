@@ -1,0 +1,6 @@
+/* You can add global styles to this file, and also import other style files */
+footer{
+    position: fixed;
+    /* Height of the footer*/ 
+    height: 40px;
+    }

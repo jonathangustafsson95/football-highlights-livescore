@@ -1,0 +1,20 @@
+#header-strip  {
+    display: flex;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    list-style-type: none;
+  }
+
+#header-strip a  {
+color:#ffff;
+text-decoration: none;
+}
+
+#header-strip li {
+margin:0 10%;
+}
+
+#header-strip li:nth-child(2) {
+    margin: auto;
+}
