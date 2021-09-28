@@ -36,3 +36,51 @@ body {font-family: Arial;}
   border: 1px solid #ccc;
   border-top: none;
 }
+
+#image-PL {
+  background-image: url('https://img.icons8.com/color/48/000000/great-britain-circular.png');
+  background-size: 40px 40px;
+  height: 40px;  
+  width: 40px;
+}
+#image-SA {
+  background-image: url('https://img.icons8.com/color/48/000000/italy-circular.png');
+  background-size: 40px 40px;
+  height: 40px;  
+  width: 40px;
+}
+
+#image-Lal {
+  background-image: url('https://img.icons8.com/fluency/48/000000/spain-circular.png');
+  background-size: 40px 40px;
+  height: 40px;  
+  width: 40px;
+}
+
+#image-BL {
+  background-image: url('https://img.icons8.com/color/48/000000/germany-circular.png');
+  background-size: 40px 40px;
+  height: 40px;  
+  width: 40px;
+}
+
+#image-L1 {
+  background-image: url('https://img.icons8.com/color/48/000000/france-circular.png');
+  background-size: 40px 40px;
+  height: 40px;  
+  width: 40px;
+}
+
+#image-CL {
+  background-image: url('https://img.icons8.com/color/48/000000/europe.png');
+  background-size: 40px 40px;
+  height: 40px;  
+  width: 40px;
+}
+
+#image-EL {
+  background-image: url('https://img.icons8.com/color/48/000000/europe.png');
+  background-size: 40px 40px;
+  height: 40px;  
+  width: 40px;
+}
